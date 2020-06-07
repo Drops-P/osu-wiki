@@ -1,8 +1,8 @@
 # Nota ızgara bölücü
 
-Nota Izgara Bölücü notaların nereye yerleştirilebileceğini sınırlamak için kullanılır böylece onlar her zaman ritme göre düşer. Slideri sağa doğru hareket ettirdiğinizde notların ayrıntı düzeyi artar, yani, aynı ölçüye daha fazla nota yerleştirilebilir.
+Nota Izgara Bölücü notaların nereye yerleştirilebileceğini sınırlamak için kullanılır böylece onlar her zaman ritme göre düşer. Kaydırıcıyı sağa doğru hareket ettirdiğinizde notların ayrıntı düzeyi artar, yani, aynı ölçüye daha fazla nota yerleştirilebilir.
 
-Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir tık ekler. Tıklar, ([Standart](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko) ve [osu!catch](/wiki/Game_Modes/osu!catch)) için aşağıdaki gibidir:
+Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir çizgi ekler. Çizgiler, ([Standart](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko) ve [osu!catch](/wiki/Game_Modes/osu!catch)) için aşağıdaki gibidir:
 
 ## osu!, osu!taiko ve osu!catch
 
