@@ -11,7 +11,7 @@ Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir
 ![1/1 Bölücü](/wiki/shared/BSD_1_1b.jpg "1/1 Bölücü")
 
 - Tam vuruş
-- Sadece beyaz çizgiler vardır
+- Sadece beyaz tıklar vardır
 - En verimli şekilde Easy zorluklarda kullanılır
 
 ### 1/2 Bölücü
