@@ -1,6 +1,6 @@
 # Nota ızgara bölücü
 
-Nota Izgara Bölücü notaların nereye yerleştirilebileceğini sınırlamak için kullanılır böylece onlar her zaman ritme göre düşer. Kaydırıcıyı sağa doğru hareket ettirdiğinizde notların ayrıntı düzeyi artar, yani, aynı ölçüye daha fazla nota yerleştirilebilir.
+Nota Izgara Bölücü notaların nereye yerleştirilebileceğini sınırlamak, böylece notaların her zaman ritme göre gelmelerini sağlamak için kullanılır. Kaydırıcıyı sağa doğru hareket ettirdiğinizde notların ayrıntı düzeyi artar, yani, aynı ölçüye daha fazla nota yerleştirilebilir.
 
 Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir tık ekler. Tıklar, ([Standart](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko) ve [osu!catch](/wiki/Game_Modes/osu!catch)) için aşağıdaki gibidir:
 
@@ -12,7 +12,7 @@ Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir
 
 - Tam vuruş
 - Sadece beyaz tıklar vardır
-- En verimli şekilde Easy zorluklarda kullanılır
+- En iyi Easy zorluklarda kullanılır.
 
 ### 1/2 Bölücü
 
@@ -26,8 +26,8 @@ Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir
 ![1/3 Bölücü](/wiki/shared/BSD_1_3.jpg "1/3 Bölücü")
 
 - Üçlü vuruşlar*
-- Her iki beyaz tıkın arasına mor tık vardır
-- Compound timing
+- Her iki beyaz tıkın arasında ikişer mor tık vardır
+- Bileşik ölçü
 
 ### 1/4 Bölücü
 
@@ -35,15 +35,15 @@ Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir
 
 - Çeyrek vuruş
 - Kırmızı tıklara ek olarak, mavi tıklar ekler
-- Genel mappingde verimli kullanılır
+- Genel mapping için kullanışlıdır.
 
 ### 1/6 Bölücü
 
 ![1/6 Bölücü](/wiki/shared/BSD_1_6.jpg "1/6 Bölücü")
 
 - Çift Üçlü vuruşlar*
-- Her iki kırmızı tıkın arasında mor tık vardır
-- Bileşik zamanlama
+- Her iki kırmızı tıkın arasında ikişer mor tık vardır
+- Bileşik ölçü
 
 ### 1/8 Bölücü
 
@@ -52,7 +52,7 @@ Her ayar [Zaman çizelgesine](/wiki/Beatmap_Editor/Timelines) farklı renkte bir
 - Sekizde bir vuruş
 - Kırmızı ve mavi tıklara ek olarak, sarı tıklar ekler
 
-1/3 ve  1/6 bölücüler özeldir çünkü şarkının BPM'inin üçe bölünebildiği anlamına gelir, ve bu gerçekten *nadirdir*.
+1/3 ve  1/6 bölücüler özeldir çünkü şarkının BPM'inin üçe bölünebildiği anlamına gelir, ama bu gerçekten *nadirdir*.
 
 Sliderin üzerindeyken `Alt` tuşuna basılı tutmak, sliderin [mesafe aralığını](/wiki/Beatmap_Editor/Distance_Snap) değiştirir.
 
@@ -60,7 +60,7 @@ Sliderin üzerindeyken `Alt` tuşuna basılı tutmak, sliderin [mesafe aralığ�
 
 Çift beyaz çizgi: Ölçü
 
-Beyaz çizgi: Yaygın Zaman
+Beyaz çizgi: Basit ölçü
 
 Yeşil çizgi: Siz.
 
@@ -70,7 +70,7 @@ Yeşil çizgi: Siz.
 
 - Tam vuruş
 - Sadece beyaz tıklar
-- En verimli şekilde Easy zorluklarda kullanılır
+- En iyi Easy zorluklarda kullanılır
 
 ### 1/2 Bölücü
 
@@ -84,8 +84,8 @@ Yeşil çizgi: Siz.
 ![1/3 Bölücü](/wiki/shared/1_3_m.jpg "1/3 Bölücü")
 
 - Üçlü vuruşlar
-- Her iki beyaz tıkın arasına mor tık vardır
-- Bileşik zamanlama
+- Her iki beyaz tıkın arasında ikişer mor tık vardır
+- Bileşik ölçü
 
 ### 1/4 Bölücü
 
@@ -93,15 +93,15 @@ Yeşil çizgi: Siz.
 
 - Çeyrek vuruş
 - Kırmızı tıklara ek olarak, mavi tıklar ekler
-- Genel mappingde verimli kullanılır
+- Genel mapping için kullanışlıdır
 
 ### 1/6 Bölücü
 
 ![1/6 Bölücü](/wiki/shared/1_6_m.jpg "1/6 Bölücü")
 
 - Çift Üçlü vuruşlar*
-- Her iki kırmızı tıkların arasında mor tık vardır
-- Bileşik zamanlama
+- Her iki kırmızı tıkların arasında ikişer mor tık vardır
+- Bileşik ölçü
 
 ### 1/8 Bölücü
 
